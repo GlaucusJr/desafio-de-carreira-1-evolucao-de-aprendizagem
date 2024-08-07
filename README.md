@@ -28,5 +28,12 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- ...
+- Nesse segundo modulo eu preferi voltar e fazer uma revisao geral de tudo, como estou comecando do zero na programacao.
+- Funcoes
+- Tipos de dados 2
+- Tipos de Utilitarios
+- Metodos de strings
+- Metodos de Arrays 1, 2 e 3
+
+- Nesse segundo modulo tive um problema com a didatica das aulas, achei um pouco atropelada, faltou informacao nos videos e tive que buscar outro conteudo na internet para complementar, acho que para modulos mais complexos isso pode ser um problema.
 
